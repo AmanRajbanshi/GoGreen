@@ -1,0 +1,59 @@
+.footerlastborder{
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.serviceparagraph  {
+    text-decoration: none;
+    color: black;
+}
+.serviceparagraph:hover{
+    color:green;
+}
+
+.importantlinks:hover{
+    color:green;
+}
+.faqlinks:hover{
+    color:green;
+}
+.gmaillink:hover{
+    color:green;
+}
+
+
+.importantlinks {
+    text-decoration: none;
+    color: black;
+}
+.faqlinks  {
+    text-decoration: none;
+    color: black;
+}
+.gmaillink {
+    text-decoration: none;
+    color: black;
+}
+
+.links__main{
+    text-align: justify !important;
+}
+
+.stayconnected{
+   margin-left: 200px !important;
+   font-size: large;
+}
+
+.main__subscribe__label{
+    position: absolute;
+    top : -14px;
+    font-size: 18px !important;
+    left: 20px;
+    z-index: 100 !important;
+    color: black !important;
+}
+
+.subscribebtn{
+    background-color: #22c514 ;
+}

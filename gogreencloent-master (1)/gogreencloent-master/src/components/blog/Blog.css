@@ -1,0 +1,31 @@
+.learn__more {
+  transition: all 0.2s ease-in-out;
+}
+.learn__more:hover {
+  transform: scale(1.07);
+}
+
+.hr__class > hr {
+  border-top: 2px solid #22c514;
+  width: 95%;
+  margin: 0px auto;
+}
+
+.liked {
+  background-color: #22c514;
+  color: #fbfbfb !important;
+}
+.likedd {
+  background-color: #f6f8f6;
+  color: #22c514 !important;
+}
+
+.blog__main{
+  margin: 0px auto !important;
+  width: 100% !important;
+}
+.comment{
+  background-color: white;
+  color: back;
+  
+}

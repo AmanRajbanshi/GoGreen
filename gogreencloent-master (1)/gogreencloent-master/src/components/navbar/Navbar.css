@@ -1,0 +1,64 @@
+.main__header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 100 !important;
+  background-color: white !important;
+  border-bottom: 0.5px solid lightgray;
+}
+.nav__list {
+  transition: all 0.2s ease-in-out;
+}
+.nav__list:hover {
+  transform: scale(1.1);
+}
+
+.nav__button {
+  transition: all 0.2s ease-in-out !important;
+}
+.nav__button:hover {
+  transform: scale(1.02);
+}
+
+
+@media screen and  (max-width : 500px){
+  .nav__main{
+    display: none !important;
+  }
+  .logo__main{
+    display: none !important;
+
+  }
+}
+@media screen and (min-width : 501px){
+  .hamburger__main{
+    display: none !important;
+  }
+}
+
+.hamburger__main{
+ margin-left: auto !important;
+padding-bottom: 20px;
+margin-top: -45px;}
+
+.nav__title__main{
+  border-bottom:  1px solid #17b174 !important;
+  padding:20px 0px;
+  margin-top: -30px;
+  text-align: center;
+ 
+}.nav__title__main:hover{
+  border-bottom:  1px solid #17b174 !important;
+  padding:20px 0px;
+  margin-top: -30px;
+  text-align: center;
+  background-color: #17b174 ;
+ 
+}
+.areka{
+  color:green !important;
+}
+.w3-badge{
+  position: relative;
+  left: 25px;
+  top: -30px;
+}

@@ -1,0 +1,15 @@
+
+.active{
+    background-color:rgb(34, 197, 20) ;
+}
+
+
+.nav-link:hover{
+    content: "";
+    width: 100%;
+    background-color:  #22c514;
+    color:white;
+}
+.nav-link{
+    color:black
+}

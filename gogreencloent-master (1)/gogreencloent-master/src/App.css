@@ -1,0 +1,9 @@
+.register__main {
+  width: 50% !important;
+}
+
+@media screen and (max-width: 600px) {
+  .register__main {
+    width: 90% !important;
+  }
+}

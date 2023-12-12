@@ -1,0 +1,30 @@
+.card{
+    height: 130px;
+}
+
+
+.card1:hover{
+    background-color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0.5, 0, 0, 0.5)
+
+}
+.card2:hover{
+    background-color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0.5, 0, 0, 0.5)
+
+}
+.card3:hover{
+    background-color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0.5, 0, 0, 0.5)
+
+}
+.card4:hover{
+    background-color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0.5, 0, 0, 0.5)
+
+}
+
